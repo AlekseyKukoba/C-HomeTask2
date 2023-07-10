@@ -1,0 +1,15 @@
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.csproj.AssemblyReference.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.AssemblyInfoInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.AssemblyInfo.cs
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\bin\Debug\net7.0\HomeTask2.exe
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\bin\Debug\net7.0\HomeTask2.deps.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\bin\Debug\net7.0\HomeTask2.runtimeconfig.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\bin\Debug\net7.0\HomeTask2.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\bin\Debug\net7.0\HomeTask2.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\refint\HomeTask2.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\HomeTask2.genruntimeconfig.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask2\obj\Debug\net7.0\ref\HomeTask2.dll
